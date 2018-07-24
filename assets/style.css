@@ -1,0 +1,40 @@
+h1 {
+    background-color: navy;
+    color: white;
+    font-size: 58px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 8px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    float: right;  
+}
+p {
+    text-align: left;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h4{
+    background-color: lightblue;
+    color: lightblue;
+    width: 500px;
+    text-align: center;
+}
+
+div{
+    float: right;
+}
+
+object {
+    background-color: lightblue;
+    width: 500px;
+    height: 20px;
+
+}
