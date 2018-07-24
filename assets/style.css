@@ -6,13 +6,18 @@ h1 {
     padding-top: 20px;
     padding-bottom: 8px;
 }
-
 h2 {
     text-align: center;
+    font-size: 34px;
 }
-
 h3 {
     float: right;  
+}
+h4{
+    background-color: lightblue;
+    color: lightblue;
+    width: 500px;
+    text-align: center;
 }
 p {
     text-align: left;
@@ -20,21 +25,11 @@ p {
     margin-left: auto;
     margin-right: auto;
 }
-
-h4{
-    background-color: lightblue;
-    color: lightblue;
-    width: 500px;
-    text-align: center;
-}
-
-div{
-    float: right;
-}
-
 object {
     background-color: lightblue;
     width: 500px;
     height: 20px;
-
+}
+img {
+    float: right;
 }
